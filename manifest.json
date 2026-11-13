@@ -1,0 +1,67 @@
+{
+  "name": "تكفى للخدمات المنزلية",
+  "short_name": "تكفى",
+  "description": "تكفى للخدمات المنزلية: صيانة وسباكة وكهرباء وتكييف ونجارة ودهانات وتنظيف ونقل عفش وترميم في الرياض ومدن المملكة.",
+  "lang": "ar",
+  "dir": "rtl",
+  "id": "https://www.takfaservices.com/",
+  "start_url": "https://www.takfaservices.com/?source=app",
+  "scope": "https://www.takfaservices.com/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FDF8EC",
+  "theme_color": "#0A1D27",
+  "categories": [
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "تواصل عبر واتساب",
+      "short_name": "واتساب",
+      "url": "https://www.takfaservices.com/p/contact.html?source=app",
+      "icons": [
+        {
+          "src": "icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "خدماتنا",
+      "url": "https://www.takfaservices.com/p/services.html?source=app",
+      "icons": [
+        {
+          "src": "icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}
